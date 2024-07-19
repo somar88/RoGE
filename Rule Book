@@ -1,1 +1,27 @@
 Rise of Galactic Empires - Rule Book
+
+- RoGEs: is an 5eX game which takes place in space. 5eX game means:
+  1. Explore: explore new star systems, find new habitable world and other empires
+  2. Expand: colonize new planets, star systems 
+  3. Exploit: extract resources available on the new worlds
+  4. Exchange: trade with other players and NP empires
+  5. Exterminate: start wars against other players, try to conqure them and make friends of them.
+
+Ideas:
+- World: Random Generation of the map, using hex tiles
+- Conflict: Separate time lines between battles and main game round:
+  i. conflicts are to have more rounds than the game rounds e.g.: 3x conflict rounds, then 1 game round
+  ii. after 3x rounds of battle/conflict, players should play a game round as normal exluding the conflict area
+  iii. only traveling round the system is allowed and joining conflicts is possible by any other player's armies/fleets
+  iv. players should be able to reinforce their armies/fleets between game rounds if possible, by entering the star system for space battles and landing armies on planets.
+- Economy: the economy of this game is based on districts located on different stellar bodies e.g.: planets, moons, habitats, etc. Economy consists of only three types of production goods/resources:
+  i. Consomer Goods
+  ii. Economic Power (Power)
+  iii. Industrial Goods
+
+  These recourses can be produced by production areas called districts located onboard of the stellar bodies:
+  i. each district may be able to produced one or multiple production goods
+  ii. in general there are these types of production districs: basic districs which are Consumer Goods, Economic, Industrial, Dual-Production (only Consumer Goods or Economic, Omni-Production all production goods)
+  iii. what type of production goods a district is producing is determined by the player when assigning populations on them
+  iv. switching the type of production in Dual | Omni Production districs will mean the distric will not generate this round any goods and go into transition phase
+  v. 
