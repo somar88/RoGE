@@ -1,1 +1,1 @@
-# Rise-of-Galactic-Empires-
+# Rise of Galactic Empires
