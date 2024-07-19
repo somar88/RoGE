@@ -24,4 +24,7 @@ Ideas:
   ii. in general there are these types of production districs: basic districs which are Consumer Goods, Economic, Industrial, Dual-Production (only Consumer Goods or Economic, Omni-Production all production goods)
   iii. what type of production goods a district is producing is determined by the player when assigning populations on them
   iv. switching the type of production in Dual | Omni Production districs will mean the distric will not generate this round any goods and go into transition phase
-  v. 
+  v. to take control of a distric, the player should put/deploy a population cube (on inactive face) on the district indicating it is populated but not producing yet
+  vi. when the population cube occupying the distric is turn on the active face, the count number of corresponding district production type should be increased by one on the player's economy tableau immediately and vice versa
+  vii. in the production phase, the players collect resources and gold tokens as indicated on the player's economy tableau
+- Trading: should be initiated between the active player and any other neighbouring player(s) or the other way around, the active player can trade with NP empires such as: 1st Sentients, Ancient Rulers, Galactic trader(s). Agreements are binding agreements if they involve resources or star systems exchange, promissory agreements needs not to be binding unless this was agreed upon.
