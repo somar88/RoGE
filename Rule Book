@@ -72,6 +72,14 @@ Ideas:
   6. flagless fleets can not initiate battles
   7. flagless ships are put onto the planet cards they are at.
 - Politics:
+  1. allies:
+    1. Economic
+    2. War:
+        i. join wars
+        ii. share melitary power
+        iii. send resources -> this should be dependent on supply lines / touching borders
+    3. Tech
+        i. share tech / different tech power(s) are activated e.g.: less strong, etc.
 - Conflicts:
   1. only allied empires can be located on a star system
   2. only allied armies cab be positioned on a stellar body
@@ -79,8 +87,23 @@ Ideas:
   4. fleets in outer rim segment can be targeted by planetary defences with reach. 
   5. fleets in inner-side can be targeted by planetary defences with or without reach.
   6. fleets in systems can be targeted by neighbouing planetary diffence with reach
-- Space Battle:
-  1. 
-- Groun Battle:
-  1. 
+- Space Battle: [idea] - front line concept! defence line concept.
+  1. each empire must join with all fleets that are located in the space system segment or side where the battle was initiated
+  2. entering the same segment of another empire stops the fleet movement and initiate battle
+  3. all ships assigne to the fleet are part of the battle.
+  4. before a battle round starts, each player desides if they want to retreat before next battle round
+  5. starting with active player, each player applyes (role dice, cards, tech powers, etc.) that have before battle affect(s). and all happen at same time.
+  6. starting with active player, each player roles the amount of dice according of their fleet(s) power and assign damage
+    I.   each ship, weapon must be assigned a target before rolling its dice
+    II.  damages are assigned accordingly
+    III. this should be done 3 times
+    IV.  after three fire exchange rounds, a battle round ends.
+    V.   if ships carrying land trops are still available, the empire can [try landing them] and initiate a ground battle.
+    VI.  after each battle round is done, starting from the with active player, each player applyes (role dice, cards, tech powers, etc.) that have before battle affect(s). and all happen at same time.
+- Landing:
+  1. each empire can try landing armies from the remaining carrying ships after a space battle round is done
+  2. for each planetary diffence that is activated, the defence player choose the targeted anemy unites and role the dice and assign damage.
+- Ground Battle:
+  1. ground battle can start only after if units are on the ground from both empires
+  2. 
   
