@@ -73,13 +73,13 @@ Ideas:
   7. flagless ships are put onto the planet cards they are at.
 - Politics:
   1. allies:
-    1. Economic
-    2. War:
-        i. join wars
-        ii. share melitary power
-        iii. send resources -> this should be dependent on supply lines / touching borders
-    3. Tech
-        i. share tech / different tech power(s) are activated e.g.: less strong, etc.
+    I. Economic
+    II. War:
+      1. join wars
+      2. share melitary power
+      3. send resources -> this should be dependent on supply lines / touching borders
+    III. Tech
+      1. share tech / different tech power(s) are activated e.g.: less strong, etc.
 - Conflicts:
   1. only allied empires can be located on a star system
   2. only allied armies cab be positioned on a stellar body
