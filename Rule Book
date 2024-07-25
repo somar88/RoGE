@@ -1,75 +1,75 @@
 Rise of Galactic Empires - Rule Book
 
 - RoGEs: is an 5eX game which takes place in space. 5eX game means:
-  I. Explore: explore new star systems, find new habitable world and other empires
-  II. Expand: colonize new planets, star systems 
-  III. Exploit: extract resources available on the new worlds
-  VI. Exchange: trade with other players and NP empires
-  V. Exterminate: start wars against other players, try to conqure them and make friends of them.
+  1. Explore: explore new star systems, find new habitable world and other empires
+  2. Expand: colonize new planets, star systems 
+  3. Exploit: extract resources available on the new worlds
+  4. Exchange: trade with other players and NP empires
+  5. Exterminate: start wars against other players, try to conqure them and make friends of them.
 
 Ideas:
 - World: Random Generation of the map, using hex tiles
 - Exploration:
-  i.   each player starts as an empire which explored its local star system fully.
-  ii.  the whole galactic map is setup in advance !!! -> maybe test if we could start and then pic the star system tiles as we explore forward. (exploring away from the center of the galaxy should cost more moves)
-  iii. exploration can be done by scouts and starships whith scouting capabilities only.
-  iv.  scouting ships may enter the outer rim of a star system and may not trigger any events & resources cards
-  v.   the player may choose to enter the inner side of the star system and then grab the planet cards and trigger their [Reveal] effect drawing events and resources cards and apply their affects accordingly.
-  vi.  if an event card cause the appearance of hostile space entities, a battle takes place
-  vii. scout movement ends if the player decides to enter the inner side of the star system, even if it still have extra steps
+  1.   each player starts as an empire which explored its local star system fully.
+  2.  the whole galactic map is setup in advance !!! -> maybe test if we could start and then pic the star system tiles as we explore forward. (exploring away from the center of the galaxy should cost more moves)
+  3. exploration can be done by scouts and starships whith scouting capabilities only.
+  4.  scouting ships may enter the outer rim of a star system and may not trigger any events & resources cards
+  5.   the player may choose to enter the inner side of the star system and then grab the planet cards and trigger their [Reveal] effect drawing events and resources cards and apply their affects accordingly.
+  6.  if an event card cause the appearance of hostile space entities, a battle takes place
+  7. scout movement ends if the player decides to enter the inner side of the star system, even if it still have extra steps
 - Conflict: Separate time lines between battles and main game round:
-  i.   conflicts are to have more rounds than the game rounds e.g.: 3x conflict rounds, then 1 game round
-  ii.  after 3x rounds of battle/conflict, players should play a game round as normal exluding the conflict area
-  iii. only traveling round the system is allowed and joining conflicts is possible by any other player's armies/fleets
-  iv.  players should be able to reinforce their armies/fleets between game rounds if possible, by entering the star system for space battles and landing armies on planets.
+  1.   conflicts are to have more rounds than the game rounds e.g.: 3x conflict rounds, then 1 game round
+  2.  after 3x rounds of battle/conflict, players should play a game round as normal exluding the conflict area
+  3. only traveling round the system is allowed and joining conflicts is possible by any other player's armies/fleets
+  4.  players should be able to reinforce their armies/fleets between game rounds if possible, by entering the star system for space battles and landing armies on planets.
 - Economy: the economy of this game is based on districts located on different stellar bodies e.g.: planets, moons, habitats, etc. Economy consists of only three types of production goods/resources:
-  i.   Consomer Goods
-  ii.  Economic Power (Power)
-  iii. Industrial Goods
+  1.   Consomer Goods
+  2.  Economic Power (Power)
+  3. Industrial Goods
 - Economic Stance:
-  i.   War economy
-  ii.  Balanced
-  iii. Prosperrety
+  1.   War economy
+  2.  Balanced
+  3. Prosperrety
 - Resources:
-  i.   Consumer goods: represented by colorful cubes, CGs are yous to pay for maintenance of population a player have in their empire. Or pay for production of more pops
-  ii.  Economic Power (Money): represented by curency like tokens, are used for any kind of payment like buying goods and trading.
-  iii. Industrial Good: represented by small gear like tokens, are used for building space ships advance buildings on stellar bodies, in general are used for constructing/producing non-pops pieces
+  1.   Consumer goods: represented by colorful cubes, CGs are yous to pay for maintenance of population a player have in their empire. Or pay for production of more pops
+  2.  Economic Power (Money): represented by curency like tokens, are used for any kind of payment like buying goods and trading.
+  3. Industrial Good: represented by small gear like tokens, are used for building space ships advance buildings on stellar bodies, in general are used for constructing/producing non-pops pieces
   These recourses can be produced by production areas called districts located onboard of the stellar bodies:
-  i.   each district may be able to produced one or multiple production goods
-  ii.  in general there are these types of production districs: basic districs which are Consumer Goods, Economic, Industrial, Dual-Production (only Consumer Goods or Economic, Omni-Production all production goods)
-  iii. what type of production goods a district is producing is determined by the player when assigning populations on them
-  iv.  switching the type of production in Dual | Omni Production districs will mean the distric will not generate this round any goods and go into transition phase
-  v.   to take control of a district, the player should put/deploy a population cube (on inactive face) on the district indicating it is populated but not producing yet
-  vi.  when the population cube occupying the distric is turn on the active face, the count number of corresponding district production type should be increased by one on the player's economy tableau immediately and vice versa
-  vii. industrial districts can be populated only if all of other districts are fully occupied
-  viii. in the production phase, the players collect resources and gold tokens as indicated on the player's economy tableau
+  1.   each district may be able to produced one or multiple production goods
+  2.  in general there are these types of production districs: basic districs which are Consumer Goods, Economic, Industrial, Dual-Production (only Consumer Goods or Economic, Omni-Production all production goods)
+  3. what type of production goods a district is producing is determined by the player when assigning populations on them
+  4.  switching the type of production in Dual | Omni Production districs will mean the distric will not generate this round any goods and go into transition phase
+  5.   to take control of a district, the player should put/deploy a population cube (on inactive face) on the district indicating it is populated but not producing yet
+  6.  when the population cube occupying the distric is turn on the active face, the count number of corresponding district production type should be increased by one on the player's economy tableau immediately and vice versa
+  7. industrial districts can be populated only if all of other districts are fully occupied
+  8. in the production phase, the players collect resources and gold tokens as indicated on the player's economy tableau
 - Maintenance: 
-  i.   any space ship not in a star system belonging to its owner should be added to the maintenance pool.
-  ii.  population count is to calculate as part of district count:
+  1.   any space ship not in a star system belonging to its owner should be added to the maintenance pool.
+  2.  population count is to calculate as part of district count:
         - industrial districts will cause high costs
         - economic & consumer goods districts cost less than industrial
-  iii. some events might cause the player to pay for affects for some rounds if this was part of players choice 
-  iv.  a player must pay for the maintenance of their empire
-  v.   if costs exceed the amount a player can provide:
+  3. some events might cause the player to pay for affects for some rounds if this was part of players choice 
+  4.  a player must pay for the maintenance of their empire
+  5.   if costs exceed the amount a player can provide:
         - the player can trade with their neighbours or empires they have a trade agreement with, to be able to pay for the empire costs
         - if there was no way for a play to pay their maintenance costs
           - the player must choose what units, pops, spcial buildings to not pay for their maintenance costs
           - the player draws an [chaos] event card per fleet, planets containing the district caused the extra payments
           - player must follow what the chaos event(s) instruction(s) fully.
 - Trading: 
-  i.   should be initiated between the active player and any other neighbouring player(s) or the other way around
-  ii.  the active player can trade with NP empires such as: 1st Sentients, Ancient Rulers, Galactic trader(s). 
-  iii. agreements are binding agreements if they involve resources or star systems exchange
-  iv.  promissory agreements needs not to be binding unless this was agreed upon.
-  v.   there are no limits to what can be traded not even renting of armies, fleets, star systems
-  vi.  a supply and demand indicator shows how much consumer and industrial goods are in general produced in the galaxy and shows the price to buy and sell them to other NP empires
+  1.   should be initiated between the active player and any other neighbouring player(s) or the other way around
+  2.  the active player can trade with NP empires such as: 1st Sentients, Ancient Rulers, Galactic trader(s). 
+  3. agreements are binding agreements if they involve resources or star systems exchange
+  4.  promissory agreements needs not to be binding unless this was agreed upon.
+  5.   there are no limits to what can be traded not even renting of armies, fleets, star systems
+  6.  a supply and demand indicator shows how much consumer and industrial goods are in general produced in the galaxy and shows the price to buy and sell them to other NP empires
 - Fleets: each player can have only 3 space fleets.
-  i.   each fleet is represented by a fleet marker with a flag
-  ii.  the flag indicated that a fleet must contain a flag ship in it
-  iii. each fleet has it's own fleet area (fleet board).
-  iv.  flagless fleet stays in the planet it is in and acts as a defending power for its space
-  v.   flagless fleets are able to [join] space battles in the neighbouring star systems.
-  vi.  flagless fleets can not initiate battles
-  vii. flagless ships are put onto the planet cards they are at.
+  1.   each fleet is represented by a fleet marker with a flag
+  2.  the flag indicated that a fleet must contain a flag ship in it
+  3. each fleet has it's own fleet area (fleet board).
+  4.  flagless fleet stays in the planet it is in and acts as a defending power for its space
+  5.   flagless fleets are able to [join] space battles in the neighbouring star systems.
+  6.  flagless fleets can not initiate battles
+  7. flagless ships are put onto the planet cards they are at.
 - Politics:
-  
+- 
