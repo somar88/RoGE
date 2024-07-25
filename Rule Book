@@ -91,7 +91,7 @@ Ideas:
   1. each empire must join with all fleets that are located in the space system segment or side where the battle was initiated
   2. entering the same segment of another empire stops the fleet movement and initiate battle
   3. all ships assigne to the fleet are part of the battle.
-  4. before a battle round starts, each player desides if they want to retreat before next battle round
+  4. before a battle round starts, each player desides if they want to retreat / surrender before next battle round
   5. starting with active player, each player applyes (role dice, cards, tech powers, etc.) that have before battle affect(s). and all happen at same time.
   6. starting with active player, each player roles the amount of dice according of their fleet(s) power and assign damage
     I.   each ship, weapon must be assigned a target before rolling its dice
@@ -101,9 +101,20 @@ Ideas:
     V.   if ships carrying land trops are still available, the empire can [try landing them] and initiate a ground battle.
     VI.  after each battle round is done, starting from the with active player, each player applyes (role dice, cards, tech powers, etc.) that have before battle affect(s). and all happen at same time.
 - Landing:
-  1. each empire can try landing armies from the remaining carrying ships after a space battle round is done
-  2. for each planetary diffence that is activated, the defence player choose the targeted anemy unites and role the dice and assign damage.
-- Ground Battle:
-  1. ground battle can start only after if units are on the ground from both empires
-  2. 
+  1. each empire can try landing armies from the carrying ships that are in the inner-side of the star system or remaining carrying ships after a space battle round is done
+  2. for each planetary diffence that is activated, the defence player choose the targeted anemy units and role the dice and assign damage.
+- Ground Battle: ground battle can start only if units are on the ground from to empires that are not allied with each other and or NP Empires that are available on the planet
+  1. each empire must join with all ground unites that are located on the planet
+  2. before a battle round starts, each player desides if they want to retreat / surrender before next battle round
+  3. starting with active player, each player applyes (role dice, cards, tech powers, etc.) that have before ground battle affect(s). and all happen at same time.
+  4. starting with active player, each player roles the amount of dice according of their armies(s) power and assign damage:
+    I.   each unit, weapon must be assigned a target before rolling its dice
+    II.  damages are assigned accordingly
+    III. this should be done 3 times
+    IV.  after three fire exchange rounds, the battle round ends.
+    V.   if ships carrying land trops are still available, the empire can [try landing them] and initiate a ground battle.
+    VI.  after each battle round is done, starting from the with active player, each player applyes (role dice, cards, tech powers, etc.) that have before battle affect(s). and all happen at same time.
+- Between Battles:
+  1. Game round takes place.
+  2. Fleets can enter the inner-side of the star system(s) where space and/or ground battles take place
   
