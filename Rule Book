@@ -17,8 +17,11 @@ Ideas:
   (exploring away from the center of the galaxy should cost more moves)
   3. exploration can be done by scouts and starships whith scouting capabilities only.
   4. scouting ships may enter the outer rim of a star system and may not trigger any events & resources cards
-  5. the player may choose to enter the inner side of the star system and then grab the planet cards and trigger their [Reveal] effect 
-  drawing events and resources cards and apply their affects accordingly.
+  5. the player may choose to enter the inner side of the star system then:
+      1. roles a d8 and a d6 dies to decide the planet number and sizes they should draw from the deck
+      2. player should start with d8 die and draws the corresponding number of planet cards, d8 = { 1-5 = one planet, 6-7 = 2 planets & moons, 8 = giant planet }
+      3. if the player can role for moons: d6 = { 1-3 = 1 moon, 4-5 = two moons, 6 = 3 moons }
+      4. draws the planet cards and trigger their [Reveal] effect(s)
   6. if an event card cause the appearance of hostile space entities, a battle takes place
   7. scout movement ends if the player decides to enter the inner side of the star system, even if it still have extra steps
 
@@ -164,7 +167,7 @@ that are available on the planet
   1. unites
   2. pops
   3. Technology
-  
+
 - Stardocks
   1. docking of [flagless] Fleets
   2. production of space units + defence systems
