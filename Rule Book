@@ -89,7 +89,7 @@ consists of only three types of production goods/resources:
   buy and sell them to other NP empires
 
 - Fleets: 
-  Each player can have only 3 space fleets
+  Each player can have only 3 space fleets. <---idea---> with limited capacity, depending on the level of the empire <---idea--->
   1. each fleet is represented by a fleet marker with a flag
   2. the flag indicated that a fleet must contain a falgships in it
   3. at one time each fleet can have 3 falgships
@@ -100,7 +100,7 @@ consists of only three types of production goods/resources:
   8. [flagless] fleets can bring ground reinforcements to ongoing ground battles in the neighbouring star system(s)
   9. [flagless] ships are put onto the planet cards they are at.
 
-- Ships:
+- Ships: 
   1. Basic Fleet ships
       I. Hero Falg ship which can be built only once in game for each player.
       II. Flag Ship, levels: I
