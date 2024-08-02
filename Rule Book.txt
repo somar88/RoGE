@@ -5,140 +5,179 @@ Rise of Galactic Empires - Rule Book
   2. Expand: colonize new planets, star systems 
   3. Exploit: extract resources available on the new worlds
   4. Exchange: trade with other players and NP empires
-  5. Exterminate: start a war against other players, try to conquer them and make friends of them
+  5. Exterminate: start wars against other players, try to conqure them and make friends of them
 -------------------------------------------------------------------------------------------------
+
 Ideas:
 - World: Random Generation of the map, using hex tiles
+
 - Exploration:
-  1. Each player starts as an empire which has already explored its local star system fully.
-  2. The whole galactic map is set up in advance !!! -> maybe test if we could start and then pick the star system tiles as we explore forward. 
+  1. each player starts as an empire which explored its local star system fully.
+  2. the whole galactic map is setup in advance !!! -> maybe test if we could start and then pic the star system tiles as we explore forward. 
   (exploring away from the center of the galaxy should cost more moves)
-  3. exploration can be done by scouts and starships with scouting capabilities only.
+  3. exploration can be done by scouts and starships whith scouting capabilities only.
   4. scouting ships may enter the outer rim of a star system and may not trigger any events & resources cards
-  5. the player may choose to enter the inner side of the star system and then grab the planet cards and trigger their [Reveal] effect 
-  drawing events and resources cards and applying their effects accordingly.
+  5. the player may choose to enter the inner side of the star system then:
+      1. roles a d8 and a d6 dies to decide the planet number and sizes they should draw from the deck
+      2. player should start with d8 die and draws the corresponding number of planet cards:
+         d8 = { 1-5 = one planet, 6-7 = 2 planets & moons, 8 = giant planet }
+      3. if the player can role for moons: 
+         d6 = { 1-3 = 1 moon, 4-5 = two moons, 6 = 3 moons }
+      4. draws the planet cards and trigger their [Reveal] effect(s)
   6. if an event card cause the appearance of hostile space entities, a battle takes place
   7. scout movement ends if the player decides to enter the inner side of the star system, even if it still have extra steps
-- Conflict: Separate timelines between battles and main game round:
+
+- Conflict: Separate time lines between battles and main game round:
   1. conflicts are to have more rounds than the game rounds e.g.: 3x conflict rounds, then 1 game round
-  2. after 3x rounds of battle/conflict, players should play a game round as normal excluding the conflict area
+  2. after 3x rounds of battle/conflict, players should play a game round as normal exluding the conflict area
   3. only traveling round the system is allowed and joining conflicts is possible by any other player's armies/fleets
   4. players should be able to reinforce their armies/fleets between game rounds if possible, by entering the star system for space battles 
   and landing armies on planets.
+
 - Economy: the economy of this game is based on districts located on different stellar bodies e.g.: planets, moons, habitats, etc. Economy 
 consists of only three types of production goods/resources:
-  1. Consumer Goods
+  1. Consomer Goods
   2. Economic Power (Power)
   3. Industrial Goods
+
 - Economic Stance:
   1. War economy
   2. Balanced
-  3. Prosperity
+  3. Prosperrety
+
 - Resources:
-  1. Consumer goods: represented by colorful cubes, CGs are yous to pay for maintenance of the population a player has in their empire. Or pay 
+  1. Consumer goods: represented by colorful cubes, CGs are yous to pay for maintenance of population a player have in their empire. Or pay 
   for production of more pops
-  2. Economic Power (Money): represented by currency like tokens, are used for any kind of payment like buying goods and trading.
+  2. Economic Power (Money): represented by curency like tokens, are used for any kind of payment like buying goods and trading.
   3. Industrial Good: represented by small gear like tokens, are used for building space ships advance buildings on stellar bodies, in general 
   are used for constructing/producing non-pops pieces
-  These resources can be produced by production areas called districts located onboard of the stellar bodies:
+  These recourses can be produced by production areas called districts located onboard of the stellar bodies:
   1. each district may be able to produced one or multiple production goods
-  2. in general there are these types of production district: basic districts which are Consumer Goods, Economic, Industrial, Dual-Production 
+  2. in general there are these types of production districs: basic districs which are Consumer Goods, Economic, Industrial, Dual-Production 
   (only Consumer Goods or Economic, Omni-Production all production goods)
   3. what type of production goods a district is producing is determined by the player when assigning populations on them
-  4. switching the type of production in Dual | Omni Production districts will mean the district will not generate this round any goods and go 
+  4. switching the type of production in Dual | Omni Production districs will mean the distric will not generate this round any goods and go 
   into transition phase
   5. to take control of a district, the player should put/deploy a population cube (on inactive face) on the district indicating it is 
   populated but not producing yet
-  6. when the population cube occupying the district is turn on the active face, the count number of corresponding district production type 
+  6. when the population cube occupying the distric is turn on the active face, the count number of corresponding district production type 
   should be increased by one on the player's economy tableau immediately and vice versa
   7. industrial districts can be populated only if all of other districts are fully occupied
   8. in the production phase, the players collect resources and gold tokens as indicated on the player's economy tableau
+
 - Maintenance: 
   1. any space ship not in a star system belonging to its owner should be added to the maintenance pool.
   2. population count is to calculate as part of district count:
       - industrial districts will cause high costs
       - economic & consumer goods districts cost less than industrial
-  3. some events might cause the player to pay for effects for some rounds if this was part of players choice 
+  3. some events might cause the player to pay for affects for some rounds if this was part of players choice 
   4.  a player must pay for the maintenance of their empire
   5.  if costs exceed the amount a player can provide:
-        - the player can trade with their neighbors or empires they have a trade agreement with, to be able to pay for the empire costs
+        - the player can trade with their neighbours or empires they have a trade agreement with, to be able to pay for the empire costs
         - if there was no way for a play to pay their maintenance costs
-          - the player must choose what units, pops, special buildings to not pay for their maintenance costs
+          - the player must choose what units, pops, spcial buildings to not pay for their maintenance costs
           - the player draws a [chaos] event card per fleet, planets containing the district caused the extra payments
-          - The player must follow what the chaos event(s) instruction(s) fully.
+          - player must follow what the chaos event(s) instruction(s) fully.
+
 - Trading: 
-  1. should be initiated between the active player and any other neighboring player(s) or the other way around
-  2. The active player can trade with NP empires such as: 1st Sentients, Ancient Rulers, Galactic trader(s). 
+  1. should be initiated between the active player and any other neighbouring player(s) or the other way around
+  2. the active player can trade with NP empires such as: 1st Sentients, Ancient Rulers, Galactic trader(s). 
   3. agreements are binding agreements if they involve resources or star systems exchange
-  4. promissory agreements need not to be binding unless this was agreed upon.
+  4. promissory agreements needs not to be binding unless this was agreed upon.
   5. there are no limits to what can be traded not even renting of armies, fleets, star systems
   6. a supply and demand indicator shows how much consumer and industrial goods are in general produced in the galaxy and shows the price to 
   buy and sell them to other NP empires
-- Fleets: each player can have only 3 space fleets.
-each fleet is represented by a fleet marker with a flag
-the flag indicated that a fleet must contain a flag ship in it
-each fleet has its own fleet area (fleet board).
-[flagless] fleet stays in the planet it is in and acts as a defending power for its space
-[flagless] fleets are able to [join] ongoing space battles in the neighboring star system(s).
-[flagless] fleets can not initiate battles
-[flagless] fleets can bring ground reinforcements to ongoing ground battles in the neighboring star system(s)
-[flagless] ships are put onto the planet cards they are at.
+
+- Fleets: 
+  Each player can have only 3 space fleets. <---idea---> with limited capacity, depending on the level of the empire <---idea--->
+  1. each fleet is represented by a fleet marker with a flag
+  2. the flag indicated that a fleet must contain a falgships in it
+  3. at one time each fleet can have 3 falgships
+  4. each fleet has it's own fleet area (fleet board/Card).
+  5. [flagless] fleet stays in the planet it is in and acts as a defending power for its space
+  6. [flagless] fleets are able to [join] ongoing space battles in the neighbouring star system(s).
+  7. [flagless] fleets can not initiate battles
+  8. [flagless] fleets can bring ground reinforcements to ongoing ground battles in the neighbouring star system(s)
+  9. [flagless] ships are put onto the planet cards they are at.
+
+- Ships: 
+  1. Basic Fleet ships
+      I. Hero Falg ship which can be built only once in game for each player.
+      II. Flag Ship, levels: I
+      III. Cruiser, levels: I-II
+      IV. Destroyer I-II-III
+      V. Fighting Carrier, levels: I-II
+      VI. Colony Ship or Civilian Carrier
+      VII. Fighters
+      VIII. Scout
+  2. Lore based fleet ships
+
+- Space structures:
+  1. Space docks
+  2. Habitats
+  3. Space Defence System - SDS
+  4. Theme/Lore Structures
+  5. Mega Structures!!!!
   
 - Politics:
   - allies:
- Economic
-War:
-join wars
-share military power
-send resources -> this should be dependent on supply lines / touching borders
-Tech
-share tech / different tech power(s) are activated e.g.: less strong, etc.
+    1. Economic
+    2. War:
+      1. join wars
+      2. share melitary power
+      3. send resources -> this should be dependent on supply lines / touching borders
+    3. Tech
+      1. share tech / different tech power(s) are activated e.g.: less strong, etc.
   - Binding agreements:
   - Non-Binding agreements:
   
 - Conflicts:
   1. only allied empires can be located on a star system
-  2. only allied armies can be positioned on a stellar body
-  3. if non-allied empires & fleets are positioned together on one star system segment: inner-side; outer rim segment. or a planet an battle 
-  is immediately started
-  4. fleets in the outer rim segment can be targeted by planetary defenses with reach. 
-  5. fleets on the inner-side can be targeted by planetary defenses with or without reach.
-  6. fleets in systems can be targeted by neighboring planetary defense with reach
-- Space Battle: [idea!] - front line concept! defense line concept.
+  2. only allied armies cab be positioned on a stellar body
+  3. if non-allied empires & fleets are possitioned together on one star system segent: inner-side; outer rim segment. or a planet an battle 
+  is emmediatly started
+  4. fleets in outer rim segment can be targeted by planetary defences with reach. 
+  5. fleets in inner-side can be targeted by planetary defences with or without reach.
+  6. fleets in systems can be targeted by neighbouing planetary diffence with reach
+
+- Space Battle: [idea!] - front line concept! defence line concept.
   1. each empire must join with all fleets that are located in the space system segment or side where the battle was initiated
   2. entering the same segment of another empire stops the fleet movement and initiate battle
-  3. all ships assigned to the fleet are part of the battle.
-  4. before a battle round starts, each player decides if they want to retreat / surrender before next battle round
-  5. starting with an active player, each player applies (role dice, cards, tech powers, etc.) that have before battle affect(s). and all happen 
-  at the same time.
+  3. all ships assigne to the fleet are part of the battle.
+  4. before a battle round starts, each player desides if they want to retreat / surrender before next battle round
+  5. starting with active player, each player applyes (role dice, cards, tech powers, etc.) that have before battle affect(s). and all happen 
+  at same time.
   6. starting with active player, each player roles the amount of dice according of their fleet(s) power and assign damage
     1. each ship, weapon must be assigned a target before rolling its dice
     2. damages are assigned accordingly
     3. this should be done 3 times
-    4. After three fire exchange rounds, a battle round ends.
-    5. If ships carrying land troops are still available, the empire can [try landing them] and initiate a ground battle.
-    6. After each battle round is done, starting from the active player, each player applies (role dice, cards, tech powers, etc.) 
-    that have before battle affect(s). and all happen at the same time.
+    4. after three fire exchange rounds, a battle round ends.
+    5. if ships carrying land trops are still available, the empire can [try landing them] and initiate a ground battle.
+    6. after each battle round is done, starting from the with active player, each player applyes (role dice, cards, tech powers, etc.) 
+    that have before battle affect(s). and all happen at same time.
+
 - Landing:
   1. each empire can try landing armies from the carrying ships that are in the inner-side of the star system or remaining carrying ships 
   after a space battle round is done
-  2. For each planetary defense that is activated, the defense player chooses the targeted enemy units and rolls the dice and assigns damage.
+  2. for each planetary diffence that is activated, the defence player choose the targeted anemy units and role the dice and assign damage.
+
 - Ground Battle: ground battle can start only if units are on the ground from to empires that are not allied with each other and or NP Empires 
 that are available on the planet
-  1. each empire must join with all ground units that are located on the planet
-  2. before a battle round starts, each player decides if they want to retreat / surrender before next battle round
-  3. Starting with the active player, each player applies (role dice, cards, tech powers, etc.) that have before ground battle effect(s). 
-  And all happen at the same time.
+  1. each empire must join with all ground unites that are located on the planet
+  2. before a battle round starts, each player desides if they want to retreat / surrender before next battle round
+  3. starting with active player, each player applyes (role dice, cards, tech powers, etc.) that have before ground battle affect(s). 
+  And all happen at same time.
   4. starting with active player, each player roles the amount of dice according of their armies(s) power and assign damage:
     1. each unit, weapon must be assigned a target before rolling its dice
     2. damages are assigned accordingly
     3. this should be done 3 times
-    4. After three fire exchange rounds, the battle round ends.
-    5. if ships carrying land troops are still available, the empire can [try landing them] and initiate a ground battle.
-    6. After each battle round is done, starting from the active player, each player applies (role dice, cards, tech powers, etc.) 
-    that have before battle affect(s). and all happen at the same time.
+    4. after three fire exchange rounds, the battle round ends.
+    5. if ships carrying land trops are still available, the empire can [try landing them] and initiate a ground battle.
+    6. after each battle round is done, starting from the with active player, each player applyes (role dice, cards, tech powers, etc.) 
+    that have before battle affect(s). and all happen at same time.
+
 - Between Battles:
-  1. A game round takes place.
+  1. Game round takes place.
   2. Fleets can enter the outer-rim without having to join the ongoing battle.  
   3. Fleets can enter the inner-side of the star system(s) where space and/or ground battles take place
       1. If a space battle is still ongoing, the new fleet / must join the battle
@@ -151,7 +190,7 @@ that are available on the planet
   1. unites
   2. pops
   3. Technology
+
 - Stardocks
   1. docking of [flagless] Fleets
-  2. production of space units + defense systems
-
+  2. production of space units + defence systems
