@@ -1,0 +1,23 @@
+- Fleets: 
+  Each player can have only 3 space fleets. <---idea---> with limited capacity, depending on the level of the empire <---idea--->
+  1. each fleet is represented by a fleet marker with a flag
+  2. the flag indicated that a fleet must contain a falgships in it
+  3. at one time each fleet can have 3 falgships
+  4. each fleet has it's own fleet area (fleet board/Card).
+  5. [flagless] fleet stays in the planet it is in and acts as a defending power for its space
+  6. [flagless] fleets are able to [join] ongoing space battles in the neighbouring star system(s).
+  7. [flagless] fleets can not initiate battles
+  8. [flagless] fleets can bring ground reinforcements to ongoing ground battles in the neighbouring star system(s)
+  9. [flagless] ships are put onto the planet cards they are at.
+
+- Ships: 
+  1. Basic Fleet ships
+      I. Hero Falg ship which can be built only once in game for each player.
+      II. Flag Ship, levels: I
+      III. Cruiser, levels: I-II
+      IV. Destroyer I-II-III
+      V. Fighting Carrier, levels: I-II
+      VI. Colony Ship or Civilian Carrier
+      VII. Fighters
+      VIII. Scout
+  2. Lore based fleet ships

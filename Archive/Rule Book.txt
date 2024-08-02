@@ -1,53 +1,62 @@
 Rise of Galactic Empires - Rule Book
 -------------------------------------------------------------------------------------------------
 - RoGEs: is an 5eX game which takes place in space. 5eX game means:
-  1. Explore: explore new star systems, find new habitable world and other empires
-  2. Expand: colonize new planets, star systems 
-  3. Exploit: extract resources available on the new worlds
-  4. Exchange: trade with other players and NP empires
-  5. Exterminate: start wars against other players, try to conqure them and make friends of them
+1. Explore: explore new star systems, find new habitable world and other empires
+2. Expand: colonize new planets, star systems 
+3. Exploit: extract resources available on the new worlds
+4. Exchange: trade with other players and NP empires
+5. Exterminate: start wars against other players, try to conqure them and make friends of them
 -------------------------------------------------------------------------------------------------
 
 Ideas:
 - World: Random Generation of the map, using hex tiles
 
 - Exploration:
-  1. each player starts as an empire which explored its local star system fully.
-  2. the whole galactic map is setup in advance !!! -> maybe test if we could start and then pic the star system tiles as we explore forward. 
-  (exploring away from the center of the galaxy should cost more moves)
-  3. exploration can be done by scouts and starships whith scouting capabilities only.
-  4. scouting ships may enter the outer rim of a star system and may not trigger any events & resources cards
-  5. the player may choose to enter the inner side of the star system then:
-      1. roles a d8 and a d6 dies to decide the planet number and sizes they should draw from the deck
-      2. player should start with d8 die and draws the corresponding number of planet cards:
-         d8 = { 1-5 = one planet, 6-7 = 2 planets & moons, 8 = giant planet }
-      3. if the player can role for moons: 
-         d6 = { 1-3 = 1 moon, 4-5 = two moons, 6 = 3 moons }
-      4. draws the planet cards and trigger their [Reveal] effect(s)
-  6. if an event card cause the appearance of hostile space entities, a battle takes place
-  7. scout movement ends if the player decides to enter the inner side of the star system, even if it still have extra steps
+1. each player starts as an empire which explored its local star system fully.
+2. the whole galactic map is setup in advance !!! -> maybe test if we could start and then pic the star system tiles as we explore forward. 
+(exploring away from the center of the galaxy should cost more moves)
+3. exploration can be done by scouts and starships whith scouting capabilities only.
+4. scouting ships may enter the outer rim of a star system and may not trigger any events & resources cards
+5. the player may choose to enter the inner side of the star system then:
+1. roles a d8 and a d6 dies to decide the planet number and sizes they should draw from the deck
+2. player should start with d8 die and draws the corresponding number of planet cards:
+d8 = { 1-5 = one planet, 6-7 = 2 planets & moons, 8 = giant planet }
+3. if the player can role for moons: 
+d6 = { 1-3 = 1 moon, 4-5 = two moons, 6 = 3 moons }
+4. draws the planet cards and trigger their [Reveal] effect(s)
+6. if an event card cause the appearance of hostile space entities, a battle takes place
+7. scout movement ends if the player decides to enter the inner side of the star system, even if it still have extra steps
 
-- Conflict: Separate time lines between battles and main game round:
-  1. conflicts are to have more rounds than the game rounds e.g.: 3x conflict rounds, then 1 game round
-  2. after 3x rounds of battle/conflict, players should play a game round as normal exluding the conflict area
-  3. only traveling round the system is allowed and joining conflicts is possible by any other player's armies/fleets
-  4. players should be able to reinforce their armies/fleets between game rounds if possible, by entering the star system for space battles 
-  and landing armies on planets.
+- Conflict: 
+1. only allied empires can be located on a star system
+2. only allied armies can be positioned on a stellar body
+3. if non-allied empires & fleets are possitioned together on one star system segent: inner-side; outer rim segment. or a planet an battle 
+is emmediatly started
+4. fleets in outer rim segment can be targeted by planetary defences with reach. 
+5. fleets in inner-side can be targeted by planetary defences with or without reach.
+6. fleets in systems can be targeted by neighbouing planetary diffence with reach
+
+Separate time lines between battles and main game round:
+1. conflicts are to have more rounds than the game rounds e.g.: 3x conflict rounds, then 1 game round
+2. after 3x rounds of battle/conflict, players should play a game round as normal exluding the conflict area
+3. only traveling round the system is allowed and joining conflicts is possible by any other player's armies/fleets
+4. players should be able to reinforce their armies/fleets between game rounds if possible, by entering the star system for space battles 
+and landing armies on planets.
 
 - Economy: the economy of this game is based on districts located on different stellar bodies e.g.: planets, moons, habitats, etc. Economy 
 consists of only three types of production goods/resources:
-  1. Consomer Goods
-  2. Economic Power (Power)
-  3. Industrial Goods
+1. Consomer Goods
+2. Economic Power (Power)
+3. Industrial Goods
 
 - Economic Stance:
-  1. War economy
-  2. Balanced
-  3. Prosperrety
+1. War economy
+2. Balanced
+3. Prosperrety
 
 - Resources:
-  1. Consumer goods: represented by colorful cubes, CGs are yous to pay for maintenance of population a player have in their empire. Or pay 
-  for production of more pops
+1. Consumer goods: represented by colorful cubes, CGs are yous to pay for maintenance of population a player have in their empire. Or pay 
+for production of more pops
   2. Economic Power (Money): represented by curency like tokens, are used for any kind of payment like buying goods and trading.
   3. Industrial Good: represented by small gear like tokens, are used for building space ships advance buildings on stellar bodies, in general 
   are used for constructing/producing non-pops pieces
@@ -131,14 +140,6 @@ consists of only three types of production goods/resources:
   - Binding agreements:
   - Non-Binding agreements:
   
-- Conflicts:
-  1. only allied empires can be located on a star system
-  2. only allied armies cab be positioned on a stellar body
-  3. if non-allied empires & fleets are possitioned together on one star system segent: inner-side; outer rim segment. or a planet an battle 
-  is emmediatly started
-  4. fleets in outer rim segment can be targeted by planetary defences with reach. 
-  5. fleets in inner-side can be targeted by planetary defences with or without reach.
-  6. fleets in systems can be targeted by neighbouing planetary diffence with reach
 
 - Space Battle: [idea!] - front line concept! defence line concept.
   1. each empire must join with all fleets that are located in the space system segment or side where the battle was initiated
@@ -176,7 +177,7 @@ that are available on the planet
     6. after each battle round is done, starting from the with active player, each player applyes (role dice, cards, tech powers, etc.) 
     that have before battle affect(s). and all happen at same time.
 
-- Between Battles:
+- Between Battle Rounds:
   1. Game round takes place.
   2. Fleets can enter the outer-rim without having to join the ongoing battle.  
   3. Fleets can enter the inner-side of the star system(s) where space and/or ground battles take place

@@ -1,0 +1,4 @@
+- Landing:
+  1. each empire can try landing armies from the carrying ships that are in the inner-side of the star system or remaining carrying ships 
+  after a space battle round is done
+  2. for each planetary diffence that is activated, the defence player choose the targeted anemy units and role the dice and assign damage.

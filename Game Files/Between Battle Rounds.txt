@@ -1,0 +1,9 @@
+- Between Battles:
+  1. Game round takes place.
+  2. Fleets can enter the outer-rim without having to join the ongoing battle.  
+  3. Fleets can enter the inner-side of the star system(s) where space and/or ground battles take place
+      1. If a space battle is still ongoing, the new fleet / must join the battle
+      2. The fleet must respect the general space battle rules, including ground reinforcement
+  4. Fleets can bring reinforcement that can support the ongoing space / ground battles
+  5. [Flagless] fleets can join ongoing battles
+  6. [Flagless] fleets can bring ground units to reinforce ground battles.

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------------------------
+- RoGEs: is an 5eX game which takes place in space. 5eX game means:
+1. Explore: explore new star systems, find new habitable world and other empires
+2. Expand: colonize new planets, star systems 
+3. Exploit: extract resources available on the new worlds
+4. Exchange: trade with other players and NP empires
+5. Exterminate: start wars against other players, try to conqure them and make friends of them
+-------------------------------------------------------------------------------------------------

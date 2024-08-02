@@ -1,0 +1,15 @@
+- Space Battle: [idea!] - front line concept! defence line concept.
+  1. each empire must join with all fleets that are located in the space system segment or side where the battle was initiated
+  2. entering the same segment of another empire stops the fleet movement and initiate battle
+  3. all ships assigne to the fleet are part of the battle.
+  4. before a battle round starts, each player desides if they want to retreat / surrender before next battle round
+  5. starting with active player, each player applyes (role dice, cards, tech powers, etc.) that have before battle affect(s). and all happen 
+  at same time.
+  6. starting with active player, each player roles the amount of dice according of their fleet(s) power and assign damage
+    1. each ship, weapon must be assigned a target before rolling its dice
+    2. damages are assigned accordingly
+    3. this should be done 3 times
+    4. after three fire exchange rounds, a battle round ends.
+    5. if ships carrying land trops are still available, the empire can [try landing them] and initiate a ground battle.
+    6. after each battle round is done, starting from the with active player, each player applyes (role dice, cards, tech powers, etc.) 
+    that have before battle affect(s). and all happen at same time.

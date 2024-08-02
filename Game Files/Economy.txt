@@ -1,0 +1,6 @@
+- Economy: 
+the economy of this game is based on districts located on different stellar bodies e.g.: planets, moons, habitats, etc. Economy 
+consists of only three types of production goods/resources:
+  1. Consomer Goods
+  2. Economic Power (Power)
+  3. Industrial Goods

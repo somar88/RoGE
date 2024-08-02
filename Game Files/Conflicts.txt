@@ -1,0 +1,15 @@
+- Conflict: 
+1. only allied empires can be located on a star system
+2. only allied armies can be positioned on a stellar body
+3. if non-allied empires & fleets are possitioned together on one star system segent: inner-side; outer rim segment. or a planet an battle 
+is emmediatly started
+4. fleets in outer rim segment can be targeted by planetary defences with reach. 
+5. fleets in inner-side can be targeted by planetary defences with or without reach.
+6. fleets in systems can be targeted by neighbouing planetary diffence with reach
+
+Separate time lines between battles and main game round:
+1. conflicts are to have more rounds than the game rounds e.g.: 3x conflict rounds, then 1 game round
+2. after 3x rounds of battle/conflict, players should play a game round as normal exluding the conflict area
+3. only traveling round the system is allowed and joining conflicts is possible by any other player's armies/fleets
+4. players should be able to reinforce their armies/fleets between game rounds if possible, by entering the star system for space battles 
+and landing armies on planets.
