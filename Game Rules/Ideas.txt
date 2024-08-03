@@ -1,0 +1,60 @@
+Win Conditions:
+- Moral Win:
+- Political Win:
+- Strategic Win:
+- Annihilation Win:
+
+
+Planet Fall:
+- D6 roll for each pop 50% loss of pop
+
+Retreat from battle Rules:
+- When to declare retreat
+- How to retreat
+
+Battle Rules:
+- 
+
+Economy:
+- CG:  1|0: {1, 2}, 2|0: {3, 4}, 3|1: {5, 6}, 4|1: {7, 8}, 5|2: {9, 10}, 6|2: {11, 12}, 7|3: {13, 14}, 8|3: {15, 16}, 9|4: {17, 18, 19}, 10|5: {20+} 
+- Eco: 1: {1, 2}, 2: {3, 4}, 3: {5, 6}, 4: {7, 8}, 5: {9, 10}, 6: {11, 12}, 7: {13, 14}, 8: {15, 16}, 9: {17, 18, 19}, 10: {20+} 
+- IG:  1: {1, 2, 3}, 2: {4, 5, 6}, 3: {7, 8, 9}, 5: {10, 11, 12}, 7: {13, 14, 15}, 8: {16, 17, 18, 19}, 10: {20+}
+
+Economic stance: 
+A player may change the economic stance of the empire, which 5 sequetial turns starting from the decleration of stance change. Available economic stances are: Balanced, War, Prosperity
+During the production phase the player my exchange their produced resources
+- War economy: 3x switch CG -> IG:
+    - 1st CG 2:1 IG -> 2    transformation ratio
+    - 2nd CG 3:2 IG -> 1.5  transformation ratio
+    - 3rd CG 5:3 IG -> 1.33 transformation ratio
+- Balanced economy
+    - CG - 2:3 Eco
+    - E  - 1:1 Eco
+    - IG - 1:3 Eco
+- Prosperity economy
+    - 1st IG 1:3 Eco | IG 1:2 CG
+    - 2nd IG 1:4 Eco | IG 2:5 CG
+    - 3rd IG 1:5 Eco | IG 3:8 CG
+
+- Player decks:
+    - 4x move
+    - 2x produce 
+    - 3x civilian action
+        - Build
+        - Repair
+        - trade
+        - political
+- Player turn:
+    - if hand is empty shuffel the discar pile and draw to hand size
+    - play an action card from your hand
+    - do the action
+    - apply bonus(s) from active event cards
+    - discard the action card
+    - draw to hand size (if deck not yet empty)
+- Game Round:
+    - Each player starting from current first player take turns, playing action cards from their hands
+    - after all players have played a cards, check for battles
+        - Run space battle rounds
+        - Run Ground battle rounds
+    - move first player marker to next player and start over
+    
