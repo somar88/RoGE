@@ -1,3 +1,0 @@
-- Stardocks
-  1. docking of [flagless] Fleets
-  2. production of space units + defence systems
