@@ -4,4 +4,15 @@
         - Run space battle rounds
         - Run Ground battle rounds
     - move first player marker to next player and start over
+
+
+- When can the player switch a pop type in dual / omni prodution districs
+- Research rules
+- upgrade units rules
+- Populate rules
+    - green, blue normal
+    - orange, only if all are occupied
+
+Maintenance:
+- 
     
