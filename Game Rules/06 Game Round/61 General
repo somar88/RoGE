@@ -1,0 +1,10 @@
+Each round consist of:
+1. Player actions
+    - Each player starting from the first player plays a card from hand
+    - Executes the action
+    - Discards the card played to their discard pile
+    - Draws to hand size if there is still cards in their empire deck
+2. Maintenance
+    - Each player must pay for empire costs:
+        - 
+3. 
