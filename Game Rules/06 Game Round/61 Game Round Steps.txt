@@ -1,0 +1,20 @@
+Each round consist of two phases:
+1. Player actions & Battles: 
+    1. players play cards from hand untill all have passed
+    - Players who have no more cards at hand must pass
+    - Each player starting from the first player plays a card from hand
+    - Executes the action
+    - Discards the card played to their discard pile
+    - Draws to hand size if there is still cards in their empire deck
+    - Pass the turn to the next player clockwise
+    2. After all players have passed or played a card from their hand, check for battles:
+        - Run space battle for each space conflict
+        - Landing Step
+        - Run ground battle for each ground confict
+2. Maintenance: when all players have passed
+    - Each player must pay for empire costs:
+        - Fleets not located at a [docking area]
+        - Populations 
+        - Any other costs due to events
+    - Pass first player marker to the next player clockwise
+    - Each player Shuffel the players empire deck and draw to hand size
