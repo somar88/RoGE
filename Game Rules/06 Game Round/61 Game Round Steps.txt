@@ -1,5 +1,5 @@
 Each round consist of two phases:
-1. Player actions & Battles: 
+1. Player actions & Battle rounds: 
     1. players play cards from hand untill all have passed
     - Players who have no more cards at hand must pass
     - Each player starting from the first player plays a card from hand

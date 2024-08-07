@@ -42,6 +42,3 @@ Civilian Action Card:
             3. Ground units must be in a space system with occupied IG district.
             4. Pay the difference of units level
             5. replace the unit with the new level unit
-            
-
-            
