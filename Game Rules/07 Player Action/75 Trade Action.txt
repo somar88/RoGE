@@ -1,0 +1,5 @@
+Trading can be done with neighboring empires, empires you have trade agreements with, or with the black market.
+
+Trading can be initiated with any empire which is neighboring the players empire. 
+Or with other empires that have a trading agreement with the player.
+Or with the black market according to the black market price.
