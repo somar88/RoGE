@@ -13,6 +13,4 @@
     - green, blue normal
     - orange, only if all are occupied
 
-Maintenance:
-- 
     
