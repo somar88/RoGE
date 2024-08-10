@@ -1,16 +1,15 @@
-- Game Round:
-    - Each player starting from current first player take turns, playing action cards from their hands
-    - after all players have played a cards, check for battles
-        - Run space battle rounds
-        - Run Ground battle rounds
-    - move first player marker to next player and start over
-
-
 - When can the player switch a pop type in dual / omni prodution districs
 - Research rules
-- upgrade units rules
+- upgrade units rules:
+    - Pay the upgrade fees which are the difference between current unit level and current level
+    - A unit can be upgraded on level at a time
 - Populate rules
-    - green, blue normal
-    - orange, only if all are occupied
+    - Green: 
+        - 
+    - Blue:
+        - 
+    - orange: 
+        - only if all are occupied
+        - 
 
     
