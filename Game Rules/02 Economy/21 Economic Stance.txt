@@ -1,6 +1,6 @@
 Economic stances: 
 A player may change the economic stance of the empire, which 5 sequetial turns starting from the decleration of stance change. Available economic stances are: Balanced, War, Prosperity
-During the production phase the player my exchange their produced resources
+During the production phase the player my exchange only their produced resources (which are not yet moved to player's empire storage)
 - War economy: 3x switch CG -> IG:
     - 1st CG 2:1 IG -> 2    transformation ratio
     - 2nd CG 3:2 IG -> 1.5  transformation ratio
