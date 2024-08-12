@@ -4,6 +4,6 @@ Production Action Card:
     2. Apply the economic stance transformation for all possible transformation(s)
         - Remove cost directly from market area
         - Add transformed resources directly to the according emipre storage area.
-    3. Econimic stance must be applied
+    3. Econimic stance must be applied!
 - Or Change economic stance to a newer one:
     # When chosen, do not produce any resources and therefore no transformation can be done. Basically skip this turn.

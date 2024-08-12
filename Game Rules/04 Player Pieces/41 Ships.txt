@@ -1,11 +1,31 @@
 - Ships: 
   1. Basic Fleet ships
-      I. Hero Falg ship which can be built only once in game for each player.
-      II. Flag Ship, levels: I
-      III. Cruiser, levels: I-II
-      IV. Destroyer I-II-III
-      V. Fighting Carrier, levels: I-II
-      VI. Colony Ship or Civilian Carrier
-      VII. Fighters
-      VIII. Scout
+      - Hero Falg ship which can be built only once in game for each player.
+      - Flag Ship
+        levels: 
+          I : 
+      - Cruiser
+        levels: 
+          I :
+          II:
+      - Destroyer
+        Levels:
+          I :
+          II:
+          III:
+      - Fighting Carrier
+        levels: 
+          I :
+          II:
+      - Colony Ship or Civilian Carrier
+        Levels:
+          I :
+          II:
+      - Fighters
+        Levels:
+          I :
+      - Scout
+        Levels:
+          I :
+          II: 
   2. Lore based fleet ships
