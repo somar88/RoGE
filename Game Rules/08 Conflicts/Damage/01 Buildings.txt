@@ -1,5 +1,5 @@
 Buildings are considered damaged if their health is equal or less than half their full health rounded down. e.g: 3/5 -> not damaged, 2/5 is considered damaged 
 - After ending a battle
-A damage Token shuold be put under the buildings(s) to indicate that they have sustained damages and should be repaired.
+A damage Token should be put under the buildings(s) to indicate that they have sustained damages and should be repaired.
 Damaged buildings start always with health equal to half of their full health rounded down, even if they have sustained more than that. [Ideas?]
 All damaged buildings with health more than half of their full health rounded down are considered undamaged and have full health.

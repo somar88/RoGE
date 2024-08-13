@@ -1,7 +1,16 @@
-- Space structures:
-  1. Space docks
-  2. Habitats
-  3. Space Defence System - SDS
-  4. Theme/Lore Structures
-  5. Mega Structures!!!!
+- Space structures: 
+  - Space docks: Stardock limit is calculated by the third of controlled star systems rounded up.
+  - Can only be built in a star system that contains a populated IG district
+    - Price : 1 CG, 2 IG, 1 Eco
+      - Health: 5 [ooooo]
+      - Special Affect(s):
+        - Docked fleets do not pay for maintenace
+        - Production of space units
+        - Production of space defence systems in its own system
+  - Theme/Lore Structures
+  - Mega Structures:
+    - Dyson Swarm
+    - Space Defence System - SDS
+    - Habitats
+    - Lore Mega structures
   

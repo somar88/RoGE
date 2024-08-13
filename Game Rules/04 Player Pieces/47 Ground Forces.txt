@@ -10,7 +10,7 @@
                 - D6 [1-3]: miss 0 damage
                 - D6 [4-5]: Hit
                     against Marines: 1 damage
-                    against AVs    : 1 damage
+                    against AVs    : 0 damage
                 - D6 [6]  : Direct Hit
                     against Marines: 2 damage
                     against AVs    : 2 damage
@@ -38,6 +38,7 @@
                 - D6 [6]  : Direct Hit
                     against Marines: total damage
                     against AVs    : 2 damage
+                    against Arty   : 1 damage
           II: Advanced Armored Vehicle [Black D6]
             - Price : 1 Blue Pop + 3 IG + 3 Eco
             - Health: 5 ooooo
@@ -49,4 +50,18 @@
                 - D6 [6]  : Direct Hit
                     against Marines: total damage
                     against AVs    : total damage
+                    against arty   : 2 damage
+      - Mobile Artillery : [Yellow D6]
+            - Price : 1 Blue Pop + 1 IG + 1 Eco
+            - Health: 2 oo
+            - Damage:
+                - D6 [1-3]: miss 0 damage
+                - D6 [4-5]: Hit
+                    against Marines: 2 damage
+                    against AVs    : 1 damage
+                    against Arty   : 1 damage
+                - D6 [6]  : Direct Hit
+                    against Marines: total damage
+                    against AVs    : 1 damage
+                    against Arty   : 2 damage
   2. Lore based Ground Units
