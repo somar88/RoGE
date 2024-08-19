@@ -5,6 +5,7 @@ Game Setup:
         1. should not be closer to any other player's home planet than the rim systems count devided by the number of players
     - must run an exploration turn to populte their starsystem
         1. all planets / moons should be populated
+            - starting starsystem must have at least one IG district, unless the player is ok with that
         2. players must adjust their income tableau accordingly
     - Take: 
         - 4 CG
